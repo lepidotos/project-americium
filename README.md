@@ -1,2 +1,2 @@
-# project-americium
-A highly modular 3D game engine with example game code.
+# project americium
+Americium is a highly modular (some might call it a skeleton of a) 3D game engine designed for maximum extensibility by its users. Each module handles its own aspect of the game, from a 3D renderer module to an audio module to, of course, the gameplay module. Modules are packaged in each game's folder, and should be theoretically replaceable should a modified or patched version become available.
